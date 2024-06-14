@@ -1,5 +1,7 @@
 # Survey-on-Emerging-Trending-Skills-Required-in-the-IT-Industry-in-the-Future
 
+In the highly competitive and constantly evolving IT industry, there is always a need for new programming skills, especially in databases. Using survey data from Stack Overflow developers, I obtained data from respondents about the technologies they have worked with and the technologies they desire to work with in the next year. From this data, I conducted an analysis, and the results of this analysis can be used by several companies to enhance their team's skills to keep up with technological advancements.
+
 ## Dashboard Components
 ### A. Current Technology Usage Tab
 **1.Top 10 Languages**
